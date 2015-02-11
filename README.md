@@ -22,25 +22,16 @@ This is a fork of the excellent https://github.com/gau1991/easyengine-vagrant te
     sudo vagrant plugin install vagrant-hostsupdater
   ```
 
-## Lets Setup Vigrant
-1. You can use any distribution from [VigrantCloud](http://vagrantcloud.com/) that supports EasyEngine. By Default EasyEngine-Vigrant is using ubuntu/precise. 
-  To change Distribution open the Vigrantfile and replace ubutnu/precise with box name
-
-  ```bash
-  git clone git@github.com:gau1991/easyengine-vagrant.git
-
-  cd easyengine-vagrant
- ```
+## Lets Setup Vagrant
  
-2. Now Start the Vagrant
+1. Now Start the Vagrant by going into the folder where you’ve installed this repo.
 
   ```bash
   vagrant up
   ```
-3. It will setup EasyEngine on Vigrant Box. To Test, point your system browser to http://easyengine.com
 
-4. To check installation log, open another terminal and use
+Be patient because the installation might take a few minutes.
 
-  ```bash
-  tail -f easyengine-vagrant/logs/*
-  ```
+2. It will setup EasyEngine on Vagrant Box. To Test, point your system browser to http://buddy.box
+
+3. See the EasyEngine docs for more info https://rtcamp.com/easyengine/
