@@ -3,7 +3,7 @@
 
 function myecho()
 {
-	echo =========================================================	
+	echo ====================== BUDDYBOX MAGIC IN PROGRESS ===================================	
 }
 
 sudo echo -e "[user]\n\tname = EasyEngine\n\temail = root@buddy.box" > ~/.gitconfig 
