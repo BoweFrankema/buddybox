@@ -1,9 +1,8 @@
 # BuddyBox
-==================
 
 This is a fork of the excellent https://github.com/gau1991/easyengine-vagrant template. The goal is to create a Vagrant server powered by EasyEngine and compatible with BuddyPress.
 
-### Installation - Your First BuddyBox 
+### Requirements / Getting the stuff you need
 
 1. Start with any local operating system such as Mac OS X, Linux, or Windows.
 1. Install [VirtualBox 4.3.x](https://www.virtualbox.org/wiki/Downloads)
@@ -15,16 +14,16 @@ This is a fork of the excellent https://github.com/gau1991/easyengine-vagrant te
     * If you choose not to install this plugin, a manual entry should be added to your local `hosts` file that looks like this: `192.168.33.10  buddy.box'
 
 
-## Lets Setup Vagrant
+## Lets Setup our BuddyBox!
  
-1. Now Start the Vagrant by going into the folder where you’ve installed this repo.
+1. First clone this git repository into a folder of your choice. this will be the root folder of all your local sites so choose a cool name (like *buddybox* for example!)
 
-  ```bash
-  vagrant up
-  ```
+`git clone https://github.com/BoweFrankema/buddybox.git`
+
+1. This should pull in all the files from this repo. Are you ready? Type the following to start the magic
+`vagrant up`
 
 Be patient because the installation might take a few minutes.
 
-2. It will setup EasyEngine on Vagrant Box. To Test, point your system browser to http://buddy.box
-
-3. See the EasyEngine docs for more info https://rtcamp.com/easyengine/
+1. Once the installation is done point your browser to http://buddy.box
+1. See the EasyEngine docs for more info https://rtcamp.com/easyengine/
