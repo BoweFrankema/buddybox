@@ -1,2 +1,4 @@
 www/*
+logs/*
 buddybox.sublime-project
+.vagrant/*
