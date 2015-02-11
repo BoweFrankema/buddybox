@@ -16,14 +16,13 @@ This is a fork of the excellent https://github.com/gau1991/easyengine-vagrant te
 
 ## Lets Setup our BuddyBox!
  
-1. First clone this git repository into a folder of your choice. this will be the root folder of all your local sites so choose a cool name (like *buddybox* for example!)
+1. First clone this git repository into a folder of your choice. this will be the root folder of all your local sites so choose a cool name (like *buddybox* for example!) `git clone https://github.com/BoweFrankema/buddybox.git`
 
-`git clone https://github.com/BoweFrankema/buddybox.git`
-
-1. This should pull in all the files from this repo. Are you ready? Type the following to start the magic
-`vagrant up`
+2. This should pull in all the files from this repo. Are you ready? Type the following to start the magic `vagrant up`
 
 Be patient because the installation might take a few minutes.
 
-1. Once the installation is done point your browser to http://buddy.box
-1. See the EasyEngine docs for more info https://rtcamp.com/easyengine/
+3. Once the installation is done point your browser to http://buddy.box
+
+
+See the EasyEngine docs for more info https://rtcamp.com/easyengine/
