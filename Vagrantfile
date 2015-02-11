@@ -15,6 +15,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.provider "virtualbox" do |v|
   
      v.name = "BuddyBox"
+	 v.memory = 2048
+  	 v.cpus = 2
 
   end
 
@@ -24,7 +26,10 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.provision "shell", path: "buddybox.sh"
 
-  config.vm.synced_folder "logs/", "/var/log/easyengine"
-  config.vm.synced_folder "buddy.box/wp-content/", "/var/www/buddy.box/htdocs/wp-content/"
+  config.vm.synced_folder "logs/", "/var/log/"
+  config.vm.synced_folder "www", "/var/www/"
+
+
   
 end
+

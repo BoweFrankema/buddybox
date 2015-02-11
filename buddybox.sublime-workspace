@@ -1,0 +1,809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"brand",
+				"bp-brand-primary"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"activity",
+				"activity-filter-by"
+			],
+			[
+				"buddyp",
+				"buddypress-activity"
+			],
+			[
+				"primary_navigation_",
+				"primary_navigation_nl_NL"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"bp-bran",
+				"bp-brand-complimentary"
+			],
+			[
+				"text-t",
+				"text-transform"
+			],
+			[
+				"boxs",
+				"box-shadow"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"brand-",
+				"brand-primary"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"i",
+				"inside"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"colr",
+				"color"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bp-hal",
+				"bp-half-padding"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 620,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 5,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "buddybox.sh",
+			"settings":
+			{
+				"buffer_size": 679,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LICENSE",
+			"settings":
+			{
+				"buffer_size": 18025,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1405,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/Bowromir/cfcommunity.local/.vagrant/machines/default/virtualbox/id",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/CDE1396B-7186-4407-BFAC-A5E18D251D0C/style.css",
+		"/Users/Bowromir/BuddyBox/buddybox.sh",
+		"/Users/Bowromir/cfcommunity.local/Vagrantfile",
+		"/Users/Bowromir/BuddyBox/Vagrantfile",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-translations/README - INSTRUCTIONS.md",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-translations/strings.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/design.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/init.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/custom.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/templates/content.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/single.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/base.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/navigation.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/templates/entry-meta.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/templates/post-thumbnail.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-translations/.tx/config",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-translations/Gruntfile.js",
+		"/Users/Bowromir/webserver/youthpolicy.org/wp-content/themes/roots-yp-child/templates/entry-meta.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/buddypress/bp-actions.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/icons.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/activity.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/bp-profile-search/bps-search.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/global.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/menus.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/templates/header-navigation.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-translations/cfcommunity-translations.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-translations/languages/cfctranslation-nl_NL.po",
+		"/Users/Bowromir/Downloads/font-awesome-4.3.0/css/font-awesome.css",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/bp-custom.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/templates/content-single.php",
+		"/Users/Bowromir/webserver/youthpolicy.org/wp-content/themes/roots-yp-child/assets/less/single.less",
+		"/Users/Bowromir/Downloads/font-awesome-4.3.0/less/icons.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/buddypress/bp-cover-photo.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/edd-functions.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/buddypress/bp-hooks.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity-support/front-page.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-translations/node_modules/grunt-pot/tasks/pot.js",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity-support/includes/edd-functions.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/bpgt/causes/groups/index.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/parts/activity-tabs.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/parts/activity-tour.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/parts/bp-member-nav.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/parts/member-navigation.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/front-page.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/parts/page-header.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/parts/profile-tour.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/template-supporter.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/templates/footer.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/uploads/wp-migrate-db/wp_cfcommunity-backup-20141128201810-an3ls.sql",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/app.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/groups/single/group-header.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/listings.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/causes.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/plugins/buddypress-media.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/js/_main.js",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress/bp-groups/bp-groups-template.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/plugins/buddypress-group-types.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/buddyless.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/rtmedia/main.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/js/buddypress.js",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress/bp-templates/bp-legacy/buddypress-functions.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/registration.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/Gruntfile.js",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/plugins/gravity-forms.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/navigation.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/bpgt/causes/groups/single/group-header.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress/bp-templates/bp-legacy/buddypress/activity/index.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/donations.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/header.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/vertical-tabs.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-config.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/videotube/includes/Mars_Custom_Post_Type.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-bp-post-type-tracking/cfcommunity-bp-post-type-tracking.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress/parts/activity-dropdown.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/cfcommunity-bp-post-type-tracking/buddypress-geo-locate.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/assets/less/buddypress/plugins/plugins.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/templates/header-top-navbar.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/functions.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/scripts.php",
+		"/Users/Bowromir/webserver/sensei.net/wp-content/plugins/cloudflare/cloudflare.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress-global-search/assets/js/buddypress-global-search.js",
+		"/Users/Bowromir/webserver/sensei.net/wp-content/mu-plugins/cfcommunity-cleanup.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress-media/templates/main.php",
+		"/Users/Bowromir/webserver/youthpolicy.org/wp-content/themes/roots-yp-library/templates/header-top-navbar.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/buddypress/bp-filters.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/0CC7A92E-A8E4-41C1-8013-69303F85372C/members-loop.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/61E7D029-A236-421C-8FC2-4C9D7F96EE9B/wp-config.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/base-template-cfsignup.php",
+		"/Users/Bowromir/Downloads/ubilabs-geocomplete-bd41fe3/examples/api.html",
+		"/Users/Bowromir/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/lib/buddypress/bp-general.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/B0BED25B-63F4-4B16-9ACC-66C0691B5284/functions.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress-geo-locate/buddypress-geo-locate.php",
+		"/Users/Bowromir/Desktop/cfcommunity-themes/cfcommunity/lib/custom.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/mu-plugins/cfcommunity-mu.php",
+		"/Users/Bowromir/Desktop/cfcommunity-themes/cfcommunity/buddypress/parts/bp-member-nav.php",
+		"/Users/Bowromir/webserver/sensei.net/wp-config.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity-support/assets/less/app.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity-support/assets/less/donations.less",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity-support/style.css",
+		"/Users/Bowromir/webserver/vagrant/e6V2xm/cfcommunity.dev/wp-config.php",
+		"/Users/Bowromir/webserver/cfcommunity.box/Vagrantfile",
+		"/Volumes/Media/Temporary Files/Desktop/infinity-berlin_3e469baaf938 2/engine/includes/buddypress-berlin.php",
+		"/Applications/MAMP/conf/apache/original/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Users/Bowromir/webserver/cfcommunity.dev/.htaccess",
+		"/Users/Bowromir/Downloads/disable-emails/disable-emails.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress-global-search/templates/results-page.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress-global-search/templates/results-page-content.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress-global-search/results-page.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/buddypress-global-search/results-page-content.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/mu-plugins/cfc-disable-emails/disable-emails.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/mu-plugins/dev_enviroment.php",
+		"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/search.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/4DA0805E-42C6-4354-8470-7B8D7DD3F8DE/page-directory.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/C76AA67F-E417-406B-8C7E-D5257F9173DF/content-single.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/D6B8CC20-BBE0-441F-A630-D90D40C39FFA/functions.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/3BD1587B-EC9F-4F7E-98F3-B68AB7358EBB/wp-config.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/4FDBE6D7-72DE-444E-9925-C99CFF62C0A4/footer.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/BC2A3293-37D6-4803-96A4-0DA5CFD6BCB8/content-recent-posts.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/B19DF134-AB9E-4230-B0BB-7BD2AF78E5A5/content-directory.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/2D02F8F2-F52D-489F-A24E-E0125394DF84/index.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/19E74864-789F-477D-BF65-66BD95E271D1/content-directory.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/F8E1CE42-3A09-4C4B-8CD7-D7489D099B72/archive.php",
+		"/Users/Bowromir/Library/Caches/Cleanup At Startup/Transmit/3F84E7EB-6862-421A-8BE7-D42B617E342D/taxonomy.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/",
+			"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/bp-profile-search/",
+			"/Users/Bowromir/webserver/cfcommunity.dev/plugins/bp-profile-search/",
+			"/Users/Bowromir/webserver/cfcommunity.dev/plugins/bp-profile-search",
+			"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/",
+			"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/plugins/buddypress",
+			"/Users/Bowromir/webserver/cfcommunity.dev/wp-content/themes/cfcommunity/",
+			"/Users/Bowromir/webserver/youthpolicy.org/wp-content/themes/roots",
+			"/Users/Bowromir/webserver/youthpolicy.org/wp-content/themes/roots-yp-child/templates",
+			"/Users/Bowromir/webserver/youthpolicy.org/wp-content/themes/roots-yp-child",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cfctranslation",
+			"intro-par",
+			"postth",
+			"post-thum",
+			"excerpt",
+			"pencial",
+			"reply",
+			"arrow",
+			"page-header",
+			"mlp",
+			"ml",
+			"bps_filters",
+			"members",
+			"'cfcommunity'",
+			"fa",
+			"display: none",
+			"create_group",
+			"bp_legacy_theme_group_create_nav",
+			"display: none;",
+			"none",
+			"bp_groups_directory_group_filter",
+			"bp_legacy_theme_group_create_nav",
+			"bp_groups_directory_group_filter",
+			"bp_group_create_button",
+			"activity-permalink",
+			".bp-user",
+			"bp-user",
+			"page-header",
+			"qui",
+			"mlp",
+			"hover",
+			"opacity",
+			".loading",
+			"loading",
+			"'cfcommunity'",
+			", 'cfcommunity' )",
+			".directory.acti",
+			".directory.activity form#whats-new-form ",
+			"96",
+			"form#whats-new",
+			"googleapis",
+			"jquery",
+			"last_activity",
+			"German",
+			"english",
+			"buddypress-profile-geo-",
+			"username-field",
+			"descriptio",
+			"</b></h2>",
+			"<h2><b>",
+			"h3",
+			"roots",
+			"select",
+			"Purchase",
+			"</p>",
+			"<p>",
+			"feature",
+			"sidebar",
+			"</li>",
+			"<li>",
+			".groups",
+			"h3",
+			"h2",
+			"h1",
+			"(@navbar-default-brand-color",
+			"@navbar-default-brand-hover-bg",
+			"background",
+			"jshint",
+			"lint",
+			"float: left",
+			"sidebar",
+			"directory",
+			"groups",
+			"is_main_site",
+			"action",
+			"page-header",
+			"gallery",
+			"mediapreview",
+			"Node",
+			"rtmp_embed_urls",
+			"youtube",
+			"WP_LANG",
+			"language",
+			"dropdown",
+			"import_markup",
+			"create-blog",
+			"create-site",
+			"bottom",
+			"intro-text",
+			".main",
+			"js-flash",
+			"display: none",
+			"intro-text",
+			"cfcommunity",
+			"groups",
+			"important",
+			"bprf_rss_feed",
+			"profile_edit_link",
+			"description",
+			"group",
+			"group-crea",
+			"displa",
+			".groups",
+			"h3",
+			"tour",
+			"LANG",
+			"textdomain",
+			"buddyboss",
+			"bp-suggestions",
+			"\"): ",
+			"state",
+			"</option>",
+			"country",
+			"Separate",
+			"seperate tags with",
+			"nav",
+			"header",
+			"intro",
+			"http://cfcommunity.net/",
+			"profile",
+			"http://cfcommunity.net/",
+			"mediapreview",
+			"Friends",
+			"Friends Widget",
+			"display: none;",
+			"display: none",
+			"grid",
+			"HELLO"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'cfctranslation'",
+			"Spanish",
+			"german",
+			"bpg_",
+			"<h2>",
+			"h2",
+			"cfc",
+			"</div>",
+			"<div>",
+			"</h5>",
+			"<h5>",
+			"profile_field",
+			"h4",
+			"cfc",
+			"language",
+			"\",",
+			"state",
+			"<?php echo home_url(); ?>/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "buddybox.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "LICENSE",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "buddybox.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

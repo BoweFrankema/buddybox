@@ -18,26 +18,25 @@ sudo ee stack install || exit 1
 
 myecho
 
-sudo ee site create buddy.box --wpsubdom || exit 1
+sudo ee site create buddy.box --wpfc || exit 1
 
-myecho
 
-curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar || exit 1
+# curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar || exit 1
 
-myecho
+# myecho
 
-chmod +x wp-cli.phar || exit 1
+# chmod +x wp-cli.phar || exit 1
 
-myecho
+# myecho
 
-sudo mv wp-cli.phar /usr/local/bin/wp || exit 1
+# sudo mv wp-cli.phar /usr/local/bin/wp || exit 1
 
-myecho
+# myecho
 
-cd /var/www/buddy.box/htdocs/wp-content/  || exit 1
+# cd /var/www/buddy.box/htdocs/wp-content/  || exit 1
 
-myecho
+# myecho
 
-wp plugin install buddypress || exit 1
+# wp plugin install buddypress || exit 1
 
-myecho
+# myecho
