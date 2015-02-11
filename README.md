@@ -1,9 +1,7 @@
-[EasyEngine] (https://github.com/rtCamp/easyengine)-[Vagrant](https://vagrantup.com/)
+# BuddyBox
 ==================
 
-It is simple Vagrant file to test the easy engine on your any system using Vagrant.
-
-Note: If you are using other that Ubuntu/Debian System, then installation steps will differ, but Setup steps are same.
+This is a fork of the excellent https://github.com/gau1991/easyengine-vagrant template. The goal is to create a Vagrant server powered by EasyEngine and compatible with BuddyPress.
 
 
 ## Installation
