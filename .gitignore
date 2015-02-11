@@ -1,4 +1,6 @@
 www/*
+!www/.emptyfile
 logs/*
+!logs/.emptyfile
 buddybox.sublime-project
 .vagrant/*
